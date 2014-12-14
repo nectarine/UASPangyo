@@ -3,6 +3,7 @@ package kr.nectarine.uaspangyo.kr.nectarine.uaspangyo.activity;
 import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -35,6 +36,8 @@ public class DetailActivity extends Activity {
         Picasso.with(this).load(member.photo).transform(roundTransformation).into(ivPhoto);
         ivPhoto.setTransitionName(member.name);
         getActionBar().setTitle(member.name);
+
+        Log.d("tag", member.comment);
 
     }
 

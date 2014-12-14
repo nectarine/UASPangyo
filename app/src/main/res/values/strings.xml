@@ -3,9 +3,10 @@
 
     <string name="app_name">Udaycity Android Study in 판교</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_files">스터디 자료</string>
     <string name="suffix_helper">(도우미)</string>
     <string name="pizza_please">피자 주세요!</string>
     <string name="title_activity_detail">DetailActivity</string>
+    <string name="url_study_files"><![CDATA[https://drive.google.com/folderview?id=0B1K48IsaCnNPTXg1ZlpkSG11cGM&usp=sharing]]></string>
 
 </resources>
