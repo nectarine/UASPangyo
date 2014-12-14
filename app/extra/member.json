@@ -1,0 +1,35 @@
+[
+	{
+		"name" : "강주희",
+		"photo" : ""
+	},
+	{
+		"name" : "김권수",
+		"photo" : ""
+	},
+	{
+		"name" : "김종인",
+		"photo" : ""
+	},	
+	{
+		"name" : "김철원",
+		"photo" : ""
+	},
+	{
+		"name" : "문희담",
+		"photo" : "" 
+	},
+	{
+		"name" : "윤경옥",
+		"photo" : ""
+	},
+	{
+		"name" : "한세호",
+		"photo" : ""
+	},
+	{
+		"name" : "김창엽",
+		"photo" : "",
+		"is_helper" : true
+	}
+]
