@@ -1,35 +1,35 @@
 [
 	{
 		"name" : "강주희",
-		"photo" : ""
+		"photo" : "https://raw.githubusercontent.com/nectarine/UASPangyo/master/app/extra/crop/wngml.jpg"
 	},
 	{
 		"name" : "김권수",
-		"photo" : ""
+		"photo" : "https://raw.githubusercontent.com/nectarine/UASPangyo/master/app/extra/crop/rnjstn.jpg"
 	},
 	{
 		"name" : "김종인",
-		"photo" : ""
+		"photo" : "https://raw.githubusercontent.com/nectarine/UASPangyo/master/app/extra/crop/whddls.jpg"
 	},	
 	{
 		"name" : "김철원",
-		"photo" : ""
+		"photo" : "https://raw.githubusercontent.com/nectarine/UASPangyo/master/app/extra/crop/cjfdnjs.jpg"
 	},
 	{
 		"name" : "문희담",
-		"photo" : "" 
+		"photo" : "https://raw.githubusercontent.com/nectarine/UASPangyo/master/app/extra/crop/gmleka.jpg" 
 	},
 	{
 		"name" : "윤경옥",
-		"photo" : ""
+		"photo" : "https://raw.githubusercontent.com/nectarine/UASPangyo/master/app/extra/crop/ruddhr.jpg"
 	},
 	{
 		"name" : "한세호",
-		"photo" : ""
+		"photo" : "https://raw.githubusercontent.com/nectarine/UASPangyo/master/app/extra/crop/tpgh.jpg"
 	},
 	{
 		"name" : "김창엽",
-		"photo" : "",
+		"photo" : "https://raw.githubusercontent.com/nectarine/UASPangyo/master/app/extra/crop/ckdduq.jpg",
 		"is_helper" : true
 	}
 ]
