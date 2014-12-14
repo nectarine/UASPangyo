@@ -46,6 +46,7 @@ public class MemberListAdapter extends ArrayAdapter<Member> {
         }
 
         Picasso.with(getContext()).load(member.photo).transform(roundTransformation).into(ivPhoto);
+        ivPhoto.setTransitionName(member.name);
         return convertView;
     }
 }

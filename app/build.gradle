@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "kr.nectarine.uaspangyo"
+        applicationId "kr.nectarine.kr.nectarine.uaspangyo.kr.nectarine.uaspangyo"
         minSdkVersion 21
         targetSdkVersion 21
         versionCode 1

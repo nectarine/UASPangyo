@@ -1,20 +1,13 @@
-package kr.nectarine.uaspangyo;
+package kr.nectarine.uaspangyo.kr.nectarine.uaspangyo.activity;
 
 import android.app.Activity;
-import android.app.ActionBar;
-import android.app.Fragment;
 import android.hardware.SensorManager;
 import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.view.ViewGroup;
-import android.os.Build;
 import android.widget.Toast;
 
 import com.squareup.seismic.ShakeDetector;
 
+import kr.nectarine.uaspangyo.R;
 import kr.nectarine.uaspangyo.kr.nectarine.uaspangyo.fragment.MemberListFragment;
 
 
