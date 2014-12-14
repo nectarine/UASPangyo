@@ -4,5 +4,6 @@
     <string name="app_name">UASPangyo</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="suffix_helper">(도우미)</string>
 
 </resources>
