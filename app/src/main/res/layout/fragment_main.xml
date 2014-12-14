@@ -4,13 +4,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity$PlaceholderFragment">
 
-    <ImageView
-        android:id="@+id/iv_background"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:scaleType="centerCrop"
-        android:src="@drawable/main_background" />
-
     <ListView
         android:id="@+id/lv_member"
         android:layout_width="match_parent"

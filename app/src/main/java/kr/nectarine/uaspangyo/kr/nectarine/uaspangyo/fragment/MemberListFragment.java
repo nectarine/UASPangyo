@@ -6,14 +6,12 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.ListView;
 
 import com.github.kevinsawicki.http.HttpRequest;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-
-import java.util.ArrayList;
-import java.util.Collections;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;
@@ -35,6 +33,10 @@ public class MemberListFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_main, container, false);
         ButterKnife.inject(this, rootView);
+
+        ImageView ivHeader = new ImageView(getActivity());
+        ivHeader.setImageResource(R.drawable.main_background);
+        lvMember.addHeaderView(ivHeader);
         return rootView;
     }
 
